@@ -5,13 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.telcolic</groupId>
-    <artifactId>syslog-server</artifactId>
+    <artifactId>ng-syslog</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-    <build>
-
-
-
-    </build>
+    <modules>
+        <module>syslog-server</module>
+    </modules>
 
 </project>
